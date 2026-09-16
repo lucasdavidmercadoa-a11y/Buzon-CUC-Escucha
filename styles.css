@@ -7,11 +7,11 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f2f5f8;
-    color: #333;
+    color: #000000;
 }
 
 header {
-    background-color: #003b70;
+    background-color: #700000;
     color: white;
     text-align: center;
     padding: 40px 20px;
@@ -38,7 +38,7 @@ main {
 }
 
 h2 {
-    color: #003b70;
+    color: #700000;
     margin-bottom: 15px;
 }
 
@@ -73,7 +73,7 @@ textarea {
 button {
     margin-top: 20px;
     padding: 13px;
-    background-color: #003b70;
+    background-color: #700000;
     color: white;
     border: none;
     border-radius: 6px;
@@ -82,7 +82,7 @@ button {
 }
 
 button:hover {
-    background-color: #00549d;
+   background-color: #c5c6c7;
 }
 
 #mensaje {
@@ -92,7 +92,7 @@ button:hover {
 
 footer {
     text-align: center;
-    background-color: #003b70;
+    background-color: #700000;
     color: white;
     padding: 20px;
     margin-top: 40px;
